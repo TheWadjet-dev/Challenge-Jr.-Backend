@@ -22,7 +22,7 @@ True or false: You should put a fake UUID into the example code (instead of just
 # Pregunta 5
 You're building code to handle errors issued from a remote API server. The response may or may not have an error.
 How much work should your method, handleErrors(response),
-handle?
+handle?     
 2. Check for the presence of an error. If it exists, throw an exception with the error.
 # Pregunta 6
 You have two classes: a database driver and an email driver. Both classes need to set errors so that your front-end interface displays any errors that transpire on your platform.

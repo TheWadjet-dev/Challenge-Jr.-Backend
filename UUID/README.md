@@ -1,4 +1,4 @@
-# Documentacion
+# Documentación
 Endpoint: Obtener información de usuario
 URL: `/users/:uuid`
 
